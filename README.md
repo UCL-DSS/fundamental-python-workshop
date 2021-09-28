@@ -33,7 +33,11 @@ To install the environment:
 
     `python -m ipykernel install --user --name DSS --display-name DSS`
 
-5. Launch Jupyter notebook
+5. Active the environment
+
+    `conda activate DSS`
+
+6. Launch Jupyter notebook
 
     `jupyter notebook`
 
